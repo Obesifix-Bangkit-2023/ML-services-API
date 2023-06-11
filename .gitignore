@@ -1,0 +1,6 @@
+.env
+/env
+.vscoded
+/__pycache__
+/model/*.h5
+/dataset/*.csv
